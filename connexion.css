@@ -1,0 +1,46 @@
+body{
+
+    background-image: url("images/blog3.jpg");
+    
+}
+
+.topnav {
+    background-color: transparent;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: blue;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color:  transparent;
+    color: white;
+}
+
+
+nav {
+   background-color:black;
+   overflow: hidden;
+}
+
+nav ul {
+    color: blue;
+    float: left;
+    margin: 0;
+    text-decoration: none;
+    font-size: 10px;
+}

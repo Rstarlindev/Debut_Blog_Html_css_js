@@ -1,0 +1,117 @@
+.article1{
+
+    position: relative;
+    left: 40%;
+    bottom: 190px;
+
+}
+
+
+.article3{
+
+    position: relative;
+    left: 40%;
+    bottom: 130px;
+
+}
+
+.end{
+    font-size: 20px;
+}
+
+.blog{
+    position: relative;
+    top: 50px;
+}
+
+.blog3 {
+
+    position: relative;
+    bottom: 170px;
+}
+
+.title1 {
+
+    position: relative;
+    bottom: 200px;
+}
+
+.title2 {
+    position: relative;
+    bottom: 140px;  
+}
+
+body{
+
+background-image: url("images/blog3.jpg");
+
+}
+
+.topnav {
+    background-color: transparent;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.blog2 {
+
+    font-size: 20px;
+}
+
+.date {
+position: relative;
+bottom: 210px;
+}
+
+.date1{
+position: relative;
+bottom: 155px;
+
+}
+
+.auteur{
+
+    position: relative;
+    bottom: 270px;
+}
+
+.auteur1{
+
+    position: relative;
+    bottom: 200px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: blue;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color:   ;
+    color: white;
+}
+
+
+nav {
+   background-color:black;
+   overflow: hidden;
+}
+
+nav ul {
+    color: blue;
+    float: left;
+    margin: 0;
+    text-decoration: none;
+    font-size: 10px;
+}
